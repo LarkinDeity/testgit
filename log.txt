@@ -1,1 +1,1 @@
-从现在开始学习git
+start using Git
